@@ -65,10 +65,10 @@ $ python3 main.py --epochs 100 --numFold 6 --withKfold 0 --valL1 0 --valL2 0
 # Results Presentation
 
 
-``` Linear Regression```  </br>
+### Linear Regression  </br>
 ![caption](/figures/Linearfig10.png)
 
-``` Linear Regression+Cross Validation```  </br>
+### Linear Regression+Cross Validation  </br>
 ![caption](/figures/KfoldFigure/fig4.png) 
 ![caption](/figures/KfoldFigure/fig5.png)
 ![caption](/figures/KfoldFigure/fig13.png)
@@ -76,14 +76,12 @@ $ python3 main.py --epochs 100 --numFold 6 --withKfold 0 --valL1 0 --valL2 0
 ![caption](/figures/KfoldFigure/fig15.png)
 ![caption](/figures/KfoldFigure/fig18.png)
 
-``` Linear Regression```  </br>
-![caption](figures/Linearfig10.png) 
 
 
-``` Linear Regression+ Lasso (L@ regularization)```  </br>
+### Linear Regression+ Lasso (L1 regularization)  </br>
 ![caption](figures/L1fig12.png) 
 
-``` Linear Regression+ ElastikNet (L1+L2 regularization)```  </br>
+### Linear Regression+ ElastikNet (L1+L2 regularization)  </br>
 ![caption](figures/ElasticFig/fig4.png) 
 
 ___
