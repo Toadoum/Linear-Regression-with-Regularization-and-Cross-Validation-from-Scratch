@@ -76,12 +76,12 @@ $ python3 main.py --epochs 100 --numFold 6 --withKfold 0 --valL1 0 --valL2 0
 ![caption](/figures/KfoldFigure/fig15.png)
 ![caption](/figures/KfoldFigure/fig18.png)
 
-``` Linear Regression+```  </br>
-![caption](figures/train_res.png) 
+``` Linear Regression```  </br>
+![caption](figures/Linearfig10.png) 
 
 
 ``` Linear Regression+ Lasso (L@ regularization)```  </br>
-![caption](figures/L1fig12.png.png) 
+![caption](figures/L1fig12.png) 
 
 ``` Linear Regression+ ElastikNet (L1+L2 regularization)```  </br>
 ![caption](figures/ElasticFig/fig4.png) 
