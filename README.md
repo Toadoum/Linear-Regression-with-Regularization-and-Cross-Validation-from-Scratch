@@ -1,5 +1,5 @@
 # Problem understanding: Linear Regression with Regularization and Cross-validation #
-In this toy project, we aim to build a deep learning clssifier that predicts whether an image is cat or not. </br>
+In this toy project, we aim to build a linear regression model with regularization and cross-validation. </br>
 
 <!-- <img src="images/cat.0.jpg" align="center">
 <img src="images/dog.0.jpg" align="right"> -->
